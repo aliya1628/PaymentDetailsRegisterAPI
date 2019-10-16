@@ -1,0 +1,14 @@
+E:\Aliya\Practicals\Asp.net core demo\Asp.NetCoreWebAPIDemo\Asp.NetCoreWebAPIDemo\bin\Debug\netcoreapp2.2\Asp.NetCoreWebAPIDemo.deps.json
+E:\Aliya\Practicals\Asp.net core demo\Asp.NetCoreWebAPIDemo\Asp.NetCoreWebAPIDemo\bin\Debug\netcoreapp2.2\Asp.NetCoreWebAPIDemo.runtimeconfig.json
+E:\Aliya\Practicals\Asp.net core demo\Asp.NetCoreWebAPIDemo\Asp.NetCoreWebAPIDemo\bin\Debug\netcoreapp2.2\Asp.NetCoreWebAPIDemo.runtimeconfig.dev.json
+E:\Aliya\Practicals\Asp.net core demo\Asp.NetCoreWebAPIDemo\Asp.NetCoreWebAPIDemo\bin\Debug\netcoreapp2.2\Asp.NetCoreWebAPIDemo.dll
+E:\Aliya\Practicals\Asp.net core demo\Asp.NetCoreWebAPIDemo\Asp.NetCoreWebAPIDemo\bin\Debug\netcoreapp2.2\Asp.NetCoreWebAPIDemo.pdb
+E:\Aliya\Practicals\Asp.net core demo\Asp.NetCoreWebAPIDemo\Asp.NetCoreWebAPIDemo\obj\Debug\netcoreapp2.2\Asp.NetCoreWebAPIDemo.csproj.CoreCompileInputs.cache
+E:\Aliya\Practicals\Asp.net core demo\Asp.NetCoreWebAPIDemo\Asp.NetCoreWebAPIDemo\obj\Debug\netcoreapp2.2\Asp.NetCoreWebAPIDemo.RazorAssemblyInfo.cache
+E:\Aliya\Practicals\Asp.net core demo\Asp.NetCoreWebAPIDemo\Asp.NetCoreWebAPIDemo\obj\Debug\netcoreapp2.2\Asp.NetCoreWebAPIDemo.RazorAssemblyInfo.cs
+E:\Aliya\Practicals\Asp.net core demo\Asp.NetCoreWebAPIDemo\Asp.NetCoreWebAPIDemo\obj\Debug\netcoreapp2.2\Asp.NetCoreWebAPIDemo.AssemblyInfoInputs.cache
+E:\Aliya\Practicals\Asp.net core demo\Asp.NetCoreWebAPIDemo\Asp.NetCoreWebAPIDemo\obj\Debug\netcoreapp2.2\Asp.NetCoreWebAPIDemo.AssemblyInfo.cs
+E:\Aliya\Practicals\Asp.net core demo\Asp.NetCoreWebAPIDemo\Asp.NetCoreWebAPIDemo\obj\Debug\netcoreapp2.2\Asp.NetCoreWebAPIDemo.RazorTargetAssemblyInfo.cache
+E:\Aliya\Practicals\Asp.net core demo\Asp.NetCoreWebAPIDemo\Asp.NetCoreWebAPIDemo\obj\Debug\netcoreapp2.2\Asp.NetCoreWebAPIDemo.dll
+E:\Aliya\Practicals\Asp.net core demo\Asp.NetCoreWebAPIDemo\Asp.NetCoreWebAPIDemo\obj\Debug\netcoreapp2.2\Asp.NetCoreWebAPIDemo.pdb
+E:\Aliya\Practicals\Asp.net core demo\Asp.NetCoreWebAPIDemo\Asp.NetCoreWebAPIDemo\obj\Debug\netcoreapp2.2\Asp.NetCoreWebAPIDemo.csprojAssemblyReference.cache
